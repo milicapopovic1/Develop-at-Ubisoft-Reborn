@@ -1,0 +1,93 @@
+﻿  stdafx.cpp
+C:\Users\milic\Desktop\projekat\GameTest\Classes\RandomGenerator.h(13,32): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\milic\Desktop\projekat\GameTest\Classes\Constants.h(16,12): warning C4114: same type qualifier used more than once
+C:\Users\milic\Desktop\projekat\GameTest\Classes\Constants.h(17,12): warning C4114: same type qualifier used more than once
+C:\Users\milic\Desktop\projekat\GameTest\Classes\Constants.h(18,12): warning C4114: same type qualifier used more than once
+C:\Users\milic\Desktop\projekat\GameTest\Classes\Constants.h(19,12): warning C4114: same type qualifier used more than once
+C:\Users\milic\Desktop\projekat\GameTest\Classes\Constants.h(20,12): warning C4114: same type qualifier used more than once
+C:\Users\milic\Desktop\projekat\GameTest\Classes\Constants.h(21,12): warning C4114: same type qualifier used more than once
+C:\Users\milic\Desktop\projekat\GameTest\Classes\Constants.h(22,12): warning C4114: same type qualifier used more than once
+C:\Users\milic\Desktop\projekat\GameTest\Classes\Constants.h(23,12): warning C4114: same type qualifier used more than once
+C:\Users\milic\Desktop\projekat\GameTest\Classes\Constants.h(24,12): warning C4114: same type qualifier used more than once
+C:\Users\milic\Desktop\projekat\GameTest\Classes\Constants.h(25,12): warning C4114: same type qualifier used more than once
+C:\Users\milic\Desktop\projekat\GameTest\Classes\Constants.h(26,12): warning C4114: same type qualifier used more than once
+C:\Users\milic\Desktop\projekat\GameTest\Classes\Constants.h(27,12): warning C4114: same type qualifier used more than once
+C:\Users\milic\Desktop\projekat\GameTest\Classes\Constants.h(28,12): warning C4114: same type qualifier used more than once
+C:\Users\milic\Desktop\projekat\GameTest\Classes\Constants.h(29,12): warning C4114: same type qualifier used more than once
+C:\Users\milic\Desktop\projekat\GameTest\Classes\Constants.h(32,14): warning C4114: same type qualifier used more than once
+C:\Users\milic\Desktop\projekat\GameTest\Classes\Constants.h(33,14): warning C4114: same type qualifier used more than once
+C:\Users\milic\Desktop\projekat\GameTest\Classes\Constants.h(34,14): warning C4114: same type qualifier used more than once
+C:\Users\milic\Desktop\projekat\GameTest\Classes\Constants.h(35,14): warning C4114: same type qualifier used more than once
+C:\Users\milic\Desktop\projekat\GameTest\Classes\Constants.h(38,12): warning C4114: same type qualifier used more than once
+C:\Users\milic\Desktop\projekat\GameTest\Classes\Constants.h(39,12): warning C4114: same type qualifier used more than once
+C:\Users\milic\Desktop\projekat\GameTest\Classes\Constants.h(40,12): warning C4114: same type qualifier used more than once
+C:\Users\milic\Desktop\projekat\GameTest\Classes\Constants.h(41,12): warning C4114: same type qualifier used more than once
+C:\Users\milic\Desktop\projekat\GameTest\Classes\Constants.h(44,12): warning C4114: same type qualifier used more than once
+C:\Users\milic\Desktop\projekat\GameTest\Classes\Constants.h(45,12): warning C4114: same type qualifier used more than once
+C:\Users\milic\Desktop\projekat\GameTest\Classes\Constants.h(46,12): warning C4114: same type qualifier used more than once
+C:\Users\milic\Desktop\projekat\GameTest\Classes\Constants.h(47,12): warning C4114: same type qualifier used more than once
+C:\Users\milic\Desktop\projekat\GameTest\Classes\Constants.h(48,14): warning C4114: same type qualifier used more than once
+C:\Users\milic\Desktop\projekat\GameTest\Classes\Constants.h(49,14): warning C4114: same type qualifier used more than once
+C:\Users\milic\Desktop\projekat\GameTest\Classes\Constants.h(52,12): warning C4114: same type qualifier used more than once
+C:\Users\milic\Desktop\projekat\GameTest\Classes\Constants.h(53,12): warning C4114: same type qualifier used more than once
+C:\Users\milic\Desktop\projekat\GameTest\Classes\Constants.h(54,12): warning C4114: same type qualifier used more than once
+C:\Users\milic\Desktop\projekat\GameTest\Classes\Constants.h(55,12): warning C4114: same type qualifier used more than once
+C:\Users\milic\Desktop\projekat\GameTest\Classes\Constants.h(56,12): warning C4114: same type qualifier used more than once
+C:\Users\milic\Desktop\projekat\GameTest\Classes\Constants.h(59,14): warning C4114: same type qualifier used more than once
+C:\Users\milic\Desktop\projekat\GameTest\Classes\Constants.h(60,14): warning C4114: same type qualifier used more than once
+C:\Users\milic\Desktop\projekat\GameTest\Classes\Constants.h(61,14): warning C4114: same type qualifier used more than once
+C:\Users\milic\Desktop\projekat\GameTest\Classes\Constants.h(62,14): warning C4114: same type qualifier used more than once
+C:\Users\milic\Desktop\projekat\GameTest\Classes\Constants.h(63,14): warning C4114: same type qualifier used more than once
+C:\Users\milic\Desktop\projekat\GameTest\Classes\Constants.h(64,12): warning C4114: same type qualifier used more than once
+C:\Users\milic\Desktop\projekat\GameTest\Classes\Constants.h(67,12): warning C4114: same type qualifier used more than once
+C:\Users\milic\Desktop\projekat\GameTest\Classes\Constants.h(68,12): warning C4114: same type qualifier used more than once
+  SimpleController.cpp
+  SimpleSound.cpp
+  SimpleSprite.cpp
+  app.cpp
+  main.cpp
+  Battery.cpp
+  Bush.cpp
+  Characters.cpp
+  Constants.cpp
+  Enemy.cpp
+C:\Users\milic\Desktop\projekat\GameTest\Classes\Enemy.cpp(27,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\milic\Desktop\projekat\GameTest\Classes\Enemy.cpp(28,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\milic\Desktop\projekat\GameTest\Classes\Enemy.cpp(29,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\milic\Desktop\projekat\GameTest\Classes\Enemy.cpp(29,36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\milic\Desktop\projekat\GameTest\Classes\Enemy.cpp(30,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\milic\Desktop\projekat\GameTest\Classes\Enemy.cpp(30,24): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  EnemyMovement.cpp
+C:\Users\milic\Desktop\projekat\GameTest\Classes\EnemyMovement.cpp(166,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\milic\Desktop\projekat\GameTest\Classes\EnemyMovement.cpp(167,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Field.cpp
+  General.cpp
+  Grass.cpp
+  Map.cpp
+C:\Users\milic\Desktop\projekat\GameTest\Classes\Map.cpp(51,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\milic\Desktop\projekat\GameTest\Classes\Map.cpp(52,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\milic\Desktop\projekat\GameTest\Classes\Map.cpp(54,19): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\milic\Desktop\projekat\GameTest\Classes\Map.cpp(55,16): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\milic\Desktop\projekat\GameTest\Classes\Map.cpp(180,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\milic\Desktop\projekat\GameTest\Classes\Map.cpp(181,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\milic\Desktop\projekat\GameTest\Classes\Map.cpp(182,9): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\milic\Desktop\projekat\GameTest\Classes\Map.cpp(183,9): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  Npc.cpp
+C:\Users\milic\Desktop\projekat\GameTest\Classes\Npc.cpp(30,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\milic\Desktop\projekat\GameTest\Classes\Npc.cpp(31,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\milic\Desktop\projekat\GameTest\Classes\Npc.cpp(32,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\milic\Desktop\projekat\GameTest\Classes\Npc.cpp(32,36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\milic\Desktop\projekat\GameTest\Classes\Npc.cpp(33,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\milic\Desktop\projekat\GameTest\Classes\Npc.cpp(33,24): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Player.cpp
+  PlayerMovement.cpp
+  RandomGenerator.cpp
+  Wood.cpp
+  Generating Code...
+  Compiling...
+  GameTest.cpp
+  stb_image.cpp
+  Generating Code...
+  GameTest.vcxproj -> C:\Users\milic\Desktop\projekat\x64\Debug\GameTest.exe
+  C:\Users\milic\Desktop\projekat\\GameTest\glut\bin\x64\freeglut.dll
+  1 File(s) copied
